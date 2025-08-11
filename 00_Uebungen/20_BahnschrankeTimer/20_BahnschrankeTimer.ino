@@ -1,0 +1,1 @@
+// Bahnschranke mit Servo, Ultrasonic Sensor und Knopf/Display (Arduino Sensorkit)
