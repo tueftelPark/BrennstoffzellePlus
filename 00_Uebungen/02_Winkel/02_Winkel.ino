@@ -5,7 +5,7 @@
 #include <Servo.h>
 Servo servo;
 
-//TODO: Schliesse den Servo am Grove Steckbrett D9 an
+//TODO: Schliesse den Servo am Grove Steckbrett D8 an
 
 const int mein_servo = 9; 
 

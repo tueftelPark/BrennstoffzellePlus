@@ -16,7 +16,7 @@ const int schwellwert = XX; // Anpassbarer Schwellwert
 const int winkelAuf = YY;
 const int winkelZu = YY;
 
-//TODO: Entscheide hier wie lange die Bahnschranke offen ist
+//TODO: Entscheide hier wie lange die Bahnschranke offen sein soll
 //      ACHTUNG: Ersetzte ZZ mit der Anzahl Millisekunden
 //                  5 Sekunden = 5000
 const int zeit = ZZ;
