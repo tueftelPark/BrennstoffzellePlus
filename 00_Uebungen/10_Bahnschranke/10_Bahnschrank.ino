@@ -7,7 +7,7 @@ Servo schranke;
 const int ultrasonicPin = 3; // Digital Pin 3 für den Grove Sensor
 
 // Grove Servo ist an Pin D8 angeschlossen
-const int servoPin = 9; 
+const int servoPin = 8; 
 
 //TODO: Hier den Schwellwert für die Entfernung anpassen (aus der Aufgabe 01_Enfternung)
 const int schwellwert = XX; // Anpassbarer Schwellwert

@@ -6,7 +6,7 @@
 Servo servo;
 
 // Pin für den Servo -> Grove D8
-const int servoPin = 9;
+const int servoPin = 8;
 // Pin für den Ultraschallsensor-Sensor -> Grove D3
 const int echoPin = 3; 
 // Pin für den Button -> Grove D4 (Schon vorverbunden)

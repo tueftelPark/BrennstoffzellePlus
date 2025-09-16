@@ -2,7 +2,7 @@
 #include <Servo.h>
 
 // Servo-Pin
-const int servoPin = 9; // Grove D8
+const int servoPin = 8; // Grove D8
 Servo schranke;
 
 // Ultraschallsensor-Pins (Grove D3)
