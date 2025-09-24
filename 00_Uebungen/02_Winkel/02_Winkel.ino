@@ -7,7 +7,7 @@ Servo servo;
 
 //TODO: Schliesse den Servo am Grove Steckbrett D8 an
 
-const int mein_servo = 9; 
+const int mein_servo = 8; 
 
 //Ein Servo kann sich zwischen 0° und 180° bewegen
 //TODO: Wähle 2 Winkel zwischen 0° und 180° aus und trage diese in Zeile 14 und 15 ein

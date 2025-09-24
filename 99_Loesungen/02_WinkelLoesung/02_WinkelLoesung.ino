@@ -16,7 +16,7 @@ int winkel3 = 180;
 void setup() {
   Serial.begin(9600);  // Serial Monitor initialisieren (nur wenn benötigt)
   
-  servo.attach(9); //servo auf D8
+  servo.attach(8); //servo auf D8
 
   // OLED Display initialisieren
   Oled.begin();
